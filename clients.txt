@@ -1,0 +1,5 @@
+100 paulo junior 1,23
+200 vinicius barbosa 2,45
+300 samuel vasconcelos 4,67
+400 rich elton 8,90
+500 matheus gusmão 5,78
