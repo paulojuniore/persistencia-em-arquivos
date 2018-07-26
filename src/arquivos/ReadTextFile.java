@@ -25,7 +25,7 @@ public class ReadTextFile
 		}
 		catch (IOException ioException)
 		{
-			System.err.println("Erro ao abrir o arquivo. Encerrando");
+			System.err.println("Erro ao abrir o arquivo. Encerrando.");
 			System.exit(1);
 		}
 	}
@@ -45,7 +45,7 @@ public class ReadTextFile
 		}
 		catch (NoSuchElementException elementException)
 		{
-			System.err.println("Arquivo formado impropriamente. Encerrando");
+			System.err.println("Arquivo formado impropriamente. Encerrando.");
 		}
 		catch (IllegalStateException stateExcetion)
 		{
